@@ -1,5 +1,5 @@
 # Resume
-AWS| SRE| Devops | sagar777wagh@gmail.com | ©+91 9975688596 | Pune, MH, INDIA
+AWS| SRE| Devops | srw.sagarwagh@gmail.com | ©+91 9975688596 | Pune, MH, INDIA
 ➢
 4 years of proven development, operations experience with deploying and maintaining global
 multi-tiered infrastructures and Enterprise Application.
