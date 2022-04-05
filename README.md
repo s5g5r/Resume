@@ -23,6 +23,7 @@ Automation Tool (pull): Chef Languages: Groovy,Ruby,Bash
 Configuration Management (push): Ansible Agile Practices: Rally, Jira
 Infrastructure Monitoring: Splunk, Nagios, Grafana, New relic, Catchpoint, graphite, PagerDuty
 Orchestration: Docker, Kubernetes, Openshift, ArgoCd, Docker swarm
+Database: MySQL
 
 EXPERIENCE
 
