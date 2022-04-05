@@ -13,6 +13,7 @@ Experience with Continuous Integration, Continuous Delivery/Deployment and Agile
 
 
 TECHNICAL SKILLS/ TOOLS
+
 Cloud: Iaas- (AWS),AWS (EC2, S3, VPC, Load Balancing, Autoscaling, EBS, Cloud formation, etc.)
 Redhat Servers (Hybrid) Microservices & Containerization
 Repository Management: Gitlab CLI,github. Ticketing Tool: ServiceNow
@@ -24,6 +25,7 @@ Infrastructure Monitoring: Splunk, Nagios, Grafana, New relic, Catchpoint, graph
 Orchestration: Docker, Kubernetes, Openshift, ArgoCd, Docker swarm
 
 EXPERIENCE
+
 Red Hat, Pune — Software Application Engineer-Devops
 FEB 2019 - PRESENT
 Team Advocate, Customer Focus & Redhat Multiplier Rewards
@@ -84,6 +86,7 @@ decrease end-to-end deployment times, reduce downtime, and increase reliability.
 ● Scaling of systems through automation (cookbooks), improving change and reliability.
 
 EDUCATION
+
 University of Pune — Bachelors of Engineering (Information Technology)
 Distinction honors
 JUN 2013 - JUN 2017
