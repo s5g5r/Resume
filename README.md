@@ -30,6 +30,8 @@ EXPERIENCE
 Red Hat, Pune — Software Application Engineer-Devops
 FEB 2019 - PRESENT
 Team Advocate, Customer Focus & Redhat Multiplier Rewards
+
+
 ●
 Generated a standardized optimization process for company-wide systems and maintained
 consistent documentation with good knowledge of Linux and Windows.
